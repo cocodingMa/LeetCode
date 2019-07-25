@@ -7,7 +7,14 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 
-|104|[Maximum Depth of Binary Tree ](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./Python/MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.py) |Easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./Python/ReverseLinkedList/ReverseLinkedList.py) |Easy|
+|198|[House Robber](https://leetcode.com/problems/house-robber/) | [Python](./Python/HouseRobber/HouseRobber.py) |Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/) | [Python](./Python/MajorityElement/MajorityElement.py) |Easy|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](./Python/IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.py) |Easy|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./Python/LinkedListCycle/LinkedListCycle.py) |Easy|
+|136|[Single Number](https://leetcode.com/problems/single-number/) | [Python](./Python/SingleNumber/SingleNumber.py) |Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Python/BestTimetoBuyandSellStock/BestTimetoBuyandSellStock.py) |Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./Python/MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.py) |Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python](./Python/SymmetricTree/SymmetricTree.py) |Easy|
 |46|[Permutations](https://leetcode.com/problems/permutations/) | [Python](./Python/Permutations/Permutations.py) |Medium|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./Python/TrappingRainWater/TrappingRainWater.py) |Hard|
