@@ -6,7 +6,9 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-
+|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Python](./Python/PathSumIII/PathSumIII.py) |Easy|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./Python/MoveZeroes/MoveZeroes.py) |Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](./Python/InvertBinaryTree/InvertBinaryTree.py) |Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./Python/ReverseLinkedList/ReverseLinkedList.py) |Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [Python](./Python/HouseRobber/HouseRobber.py) |Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [Python](./Python/MajorityElement/MajorityElement.py) |Easy|
