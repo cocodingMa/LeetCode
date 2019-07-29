@@ -6,6 +6,11 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](./Python/MergeTwoBinaryTrees/MergeTwoBinaryTrees.py) |Easy|
+|581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Python](./Python/ShortestUnsortedContinuousSubarray/ShortestUnsortedContinuousSubarray.py) |Easy|
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./Python/DiameterofBinaryTree/DiameterofBinaryTree.py) |Easy|
+|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Python](./Python/ConvertBSTtoGreaterTree/ConvertBSTtoGreaterTree.py) |Easy|
+|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Python](./Python/FindAllNumbersDisappearedinanArray/FindAllNumbersDisappearedinanArray.py) |Easy|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Python](./Python/PathSumIII/PathSumIII.py) |Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./Python/MoveZeroes/MoveZeroes.py) |Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](./Python/InvertBinaryTree/InvertBinaryTree.py) |Easy|
