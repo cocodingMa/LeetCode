@@ -28,3 +28,6 @@ LeetCode
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](./Python/FirstMissingPositive/FirstMissingPositive.py) |Hard|
 |40|[Combination SumⅡ](https://leetcode.com/problems/combination-sum-ii/) | [Python](./Python/CombinationSumⅡ/CombinationSumⅡ.py) |Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](./Python/CombinationSum/CombinationSum.py) |Medium|
+|15|[3Sum](https://leetcode.com/problems/3sum/) | [Python](./Python/3Sum/3Sum.py) |Medium|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./Python/ContainerWithMostWater/ContainerWithMostWater.py) |Medium|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./Python/LongestPalindromicSubstring/LongestPalindromicSubstring.py) |Medium|
